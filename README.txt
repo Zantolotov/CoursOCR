@@ -1,0 +1,1 @@
+Création d'un page web simple pour s'éxercer à l'utilisation de Git
